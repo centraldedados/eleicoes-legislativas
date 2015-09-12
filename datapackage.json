@@ -1,0 +1,71 @@
+{
+  "name": "eleicoes-legislativas",
+  "title": "Eleições legislativas",
+  "homepage": "",
+  "description": "Resultados das eleições legislativas desde 1976",
+  "version": "0.1.0",
+  "license": "ODbL-1.0",
+  "sources": [
+    {
+      "name": "Comissão Nacional de Eleições",
+      "web": "http://eleicoes.cne.pt/sel_eleicoes.cfm?m=raster"
+    },
+    {
+      "name": "Ministério da Administração Interna",
+      "web": "http://www.eleicoes.mai.gov.pt"
+    }
+  ],
+  "resources": [
+    {
+      "name": "resultados-legislativas",
+      "path": "data/resultados-legislativas.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 153357,
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "integer",
+            "description": "Código do círculo eleitoral"
+          },
+          {
+            "name": "nome",
+            "type": "string",
+            "description": "Nome do círculo eleitoral"
+          },
+          {
+            "name": "tipo",
+            "type": "string",
+            "description": "Tipo de eleição"
+          },
+          {
+            "name": "data",
+            "type": "date",
+            "description": "Data da eleição"
+          },
+          {
+            "name": "partido",
+            "type": "string",
+            "description": "Sigla do partido"
+          },
+          {
+            "name": "num_votos",
+            "type": "integer",
+            "description": "Número de votos"
+          },
+          {
+            "name": "perc_votos",
+            "type": "number",
+            "description": "Percentagem de votos"
+          },
+          {
+            "name": "mandatos",
+            "type": "integer",
+            "description": "Mandatos"
+          }
+        ]
+      }
+    }
+  ]
+}
