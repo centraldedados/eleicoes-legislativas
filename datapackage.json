@@ -7,6 +7,10 @@
   "license": "ODbL-1.0",
   "sources": [
     {
+      "name": "Tretas.org",
+      "web": "http://labs.tretas.org/hc/about/"
+    },
+    {
       "name": "Comissão Nacional de Eleições",
       "web": "http://eleicoes.cne.pt/sel_eleicoes.cfm?m=raster"
     },
