@@ -3,19 +3,19 @@
   "title": "Eleições legislativas",
   "homepage": "",
   "description": "Resultados das eleições legislativas desde 1976",
-  "version": "0.1.0",
-  "license": "ODbL-1.0",
+  "version": "1.0.0",
+  "license": "PDDL",
   "sources": [
     {
       "name": "Tretas.org",
       "web": "http://labs.tretas.org/hc/about/"
     },
     {
-      "name": "Comissão Nacional de Eleições",
+      "name": "CNE",
       "web": "http://eleicoes.cne.pt/sel_eleicoes.cfm?m=raster"
     },
     {
-      "name": "Ministério da Administração Interna",
+      "name": "MAI",
       "web": "http://www.eleicoes.mai.gov.pt"
     }
   ],
