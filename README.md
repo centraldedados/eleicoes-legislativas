@@ -8,7 +8,7 @@ As fontes oficiais destes dados são a [Comissão Nacional de Eleições](http:/
 
 ## Limitações
 
-Os resultados estão apenas disponíveis a nível nacional. Seria desejável tê-los discriminados por distrito, concelho ou, idealmente, mesa de voto.
+Os resultados estão disponíveis a nível de círculo eleitoral. Seria desejável tê-los discriminados por freguesia ou, idealmente, mesa de voto.
 
 ## Licença
 

@@ -3,6 +3,7 @@
   "title": "Eleições legislativas",
   "homepage": "",
   "description": "Resultados das eleições legislativas desde 1976",
+  "repository": "http://github.com/centraldedados/eleicoes-legislativas.git",
   "version": "1.0.0",
   "license": "PDDL",
   "sources": [
@@ -23,6 +24,7 @@
     {
       "name": "resultados-legislativas",
       "path": "data/resultados-legislativas.csv",
+      "title": "Resultados",
       "format": "csv",
       "mediatype": "text/csv",
       "bytes": 153357,
