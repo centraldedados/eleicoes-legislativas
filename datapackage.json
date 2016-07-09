@@ -1,9 +1,8 @@
 {
   "name": "eleicoes-legislativas",
   "title": "Eleições legislativas",
-  "homepage": "",
   "description": "Resultados das eleições legislativas desde 1976",
-  "repository": "http://github.com/centraldedados/eleicoes-legislativas.git",
+  "repository": "https://github.com/centraldedados/eleicoes-legislativas/",
   "version": "1.0.0",
   "license": "PDDL",
   "sources": [
