@@ -2,7 +2,7 @@
   "name": "eleicoes-legislativas",
   "title": "Eleições legislativas",
   "description": "Resultados das eleições legislativas desde 1976",
-  "homepage": "http://centraldedados.pt/eleicoes-legislativas/",
+  "homepage": "https://github.com/centraldedados/eleicoes-legislativas/",
   "repository": "https://github.com/centraldedados/eleicoes-legislativas/",
   "version": "1.0.0",
   "license": "PDDL",
